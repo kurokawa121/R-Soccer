@@ -8,7 +8,7 @@ library(DT)
 # Data that will be used for shiny app
 
 #subset of the df set that selects columns 3,5, etc...
-player_info <- df[c(3,5,7,8,9,10)]
+player_info <- df[c(3,5,6,7,8,9,10)]
 
 # UI Section of app:
 ui <- fluidPage(
