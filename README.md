@@ -1,6 +1,6 @@
 # Visualization Project with R and Shiny
 
-![Universe.gif](/Users/michael/Downloads/Universe.gif))
+![Universe.gif](/Users/michael/Downloads/Universe.gif)
 
 
 ## Overview
