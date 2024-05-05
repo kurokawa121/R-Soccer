@@ -6,6 +6,10 @@
 
 Welcome to my visualization project repository! In this project, I utilized R to create  visualizations based on specific attributes extracted from a data-set. These visualizations aim to provide clear and comprehensive insights into the underlying data.
 
+## Data
+
+You can find the data-set by going to https://www.kaggle.com/datasets/stefanoleone992/fifa-20-complete-player-dataset?select=players_20.csv 
+
 ## Features
 
 -   **Data Import and Subset**: I imported a large data-set into R and created several subsets to work with smaller, more manageable data-sets for analysis.
