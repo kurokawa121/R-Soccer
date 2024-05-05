@@ -1,6 +1,6 @@
 # Visualization Project with R and Shiny
 
-
+![Universe.gif](Universe.gif)
 
 
 ## Overview
