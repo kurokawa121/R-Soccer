@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my visualization project repository! In this project, I utilized R to create insightful visualizations based on specific attributes extracted from a data-set. These visualizations aim to provide clear and comprehensive insights into the underlying data.
+Welcome to my visualization project repository! In this project, I utilized R to create  visualizations based on specific attributes extracted from a data-set. These visualizations aim to provide clear and comprehensive insights into the underlying data.
 
 ## Features
 
